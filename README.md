@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil💙
 
-<!--
-**Allan4545/Allan4545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Alan Charles
 
-Here are some ideas to get you started:
+tenho 15 anos 
+Estudo na escola: Helena viana sundin
+Estou no 1B no encino medio
+Eu tou estudando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem javascript
+Eu estou utilizando esse espaço para minha organizão e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entra encontato comigo 
+
+pereira.santos.alan@escola.pr.gov.br
+!.[...]{https://media.tenor.com/d0ouCiycNrMAAAAC/goodmorning-wakeup.gif}
